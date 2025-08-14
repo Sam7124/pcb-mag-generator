@@ -49,6 +49,7 @@ pip install -r requirements.txt
 ```bash
 python app.py
 ```
+<img src="docs/assembly_preview.png" width="800" alt="Assembly Preview" />
 
 ### CLI Mode
 ```bash
@@ -86,6 +87,8 @@ pip install cadquery pyvista pyvistaqt PyQt6
 
 ```
 app.py                  # Main entry point (GUI + CLI)
+docs/                   # preview pictures 
+  ...
 ui/
   main_window.py        # Main GUI window
   viewer.py             # VTK/PyVista 3D viewer
@@ -98,6 +101,11 @@ exporter/
 ```
 
 ---
+
+## Examples
+The assembly is simple: the bones can be easily pressed into the sides.
+
+<img src="docs/pcb-magazine.jpg" width="800" alt="Assembly Preview" />
 
 ## License
 
