@@ -1,6 +1,6 @@
 # PCB Magazine Generator
 
-The **PCB Magazine Generator** is a parametric tool for designing and exporting modular PCB magazines, frames, and dovetail connectors ("bones") for 3D printing or CNC manufacturing.
+The **PCB Magazine Generator** is a parametric tool for designing and exporting modular PCB magazines, for 3D printing or CNC manufacturing.
 
 It provides both a **GUI** and **CLI** to quickly adjust PCB dimensions, spacing, and connector properties, and export the resulting 3D models to **STL** or **STEP**.
 
